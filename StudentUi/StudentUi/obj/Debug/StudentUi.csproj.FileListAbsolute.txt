@@ -1,0 +1,10 @@
+D:\bitm practice\day5\StudentUi\StudentUi\bin\Debug\StudentUi.exe.config
+D:\bitm practice\day5\StudentUi\StudentUi\bin\Debug\StudentUi.exe
+D:\bitm practice\day5\StudentUi\StudentUi\bin\Debug\StudentUi.pdb
+D:\bitm practice\day5\StudentUi\StudentUi\obj\Debug\StudentUi.csprojAssemblyReference.cache
+D:\bitm practice\day5\StudentUi\StudentUi\obj\Debug\StudentUi.StudentUi.resources
+D:\bitm practice\day5\StudentUi\StudentUi\obj\Debug\StudentUi.Properties.Resources.resources
+D:\bitm practice\day5\StudentUi\StudentUi\obj\Debug\StudentUi.csproj.GenerateResource.cache
+D:\bitm practice\day5\StudentUi\StudentUi\obj\Debug\StudentUi.csproj.CoreCompileInputs.cache
+D:\bitm practice\day5\StudentUi\StudentUi\obj\Debug\StudentUi.exe
+D:\bitm practice\day5\StudentUi\StudentUi\obj\Debug\StudentUi.pdb
